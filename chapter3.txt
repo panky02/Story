@@ -1,1 +1,1 @@
-it is the chapter3, and th efile is created automatically 
+it is the chapter3, and the file is created automatically 
